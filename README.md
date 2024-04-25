@@ -37,6 +37,9 @@ python main.py
   Install them using the following command:
   
   ```bash
+pip install pyqt5
+pip install OpenCv
+pip install numpy
 ```
 
 ## Credits
