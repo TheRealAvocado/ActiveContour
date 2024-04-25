@@ -22,6 +22,9 @@ The active contour algorithm, also known as snakes, is implemented from scratch 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file.
 3. Run the application using Python.
+```bash
+python main.py
+```
 
 ## Dependencies
 
@@ -34,8 +37,7 @@ The active contour algorithm, also known as snakes, is implemented from scratch 
   Install them using the following command:
   
   ```bash
-pip install -r requirements.txt
-
+```
 
 ## Credits
 
